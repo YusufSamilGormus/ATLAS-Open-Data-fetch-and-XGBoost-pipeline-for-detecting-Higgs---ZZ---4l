@@ -1,0 +1,9 @@
+atlasopenmagic
+uproot
+awkward
+numpy
+pandas
+xgboost
+scikit-learn
+matplotlib
+vector
